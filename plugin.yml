@@ -1,0 +1,7 @@
+ version: 1.0
+ name: FFA
+ author: tjXJNOOBIE
+ main: dev.tjxjnoobie.ffa.FFA
+ commands:
+   ks:
+   killstreak:
